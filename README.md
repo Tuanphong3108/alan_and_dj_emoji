@@ -5,12 +5,12 @@
 ## 🚀 Cách sử dụng
 
 Chỉ cần lấy link theo cú pháp:
-https://tuanphong3108.github.io/alan_and_dj_emoji/<Tên_file_emoji>
+`https://tuanphong3108.github.io/alan_and_dj_emoji/<Tên_file_emoji>`
 
 
 **Ví dụ:**
 
-https://tuanphong3108.github.io/alan_and_dj_emoji/Alan_heart.png
+`https://tuanphong3108.github.io/alan_and_dj_emoji/Alan_heart.png`
 
 
 ## 📦 Danh sách Emoji
